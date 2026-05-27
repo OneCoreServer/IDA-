@@ -1,0 +1,6 @@
+{
+  "name": "SoAnalyzer",
+  "description": "Professional ELF parser, disassembler, hex viewer, and suspicious pattern scanner for ARM64 and ARM32 Android shared libraries (.so files).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
